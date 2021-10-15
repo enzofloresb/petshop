@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^15.1.2"
+  },
+  "dependencies": {
+    "html-pdf-node": "^1.0.7"
   }
 }
